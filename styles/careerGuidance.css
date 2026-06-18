@@ -26,20 +26,3 @@
 	transform: translateY(0px);
 	opacity: 1;
 }
-
-.link-table {
-  display: flex;
-  flex-direction: column; /* Элементы идут друг под другом */
-  width: 100%;
-  border: 1px solid #ccc;
-}
-
-.link-row {
-  display: flex; /* Строка становится флекс-контейнером */
-  border-bottom: 1px solid #eee;
-}
-
-.link-cell {
-   flex: 1; /* Все ячейки занимают одинаковую ширину */
-  padding: 12px;
-}
