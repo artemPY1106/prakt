@@ -40,7 +40,7 @@
 			}
 		?>
 	</div>
-	<div class="tasks-tittle">
-		<p class="first-word">ТРУДООРИЕНТАЦИЯ</p>
+	<div>
+		<p class="first-word"><span>ТРУДООРИЕНТАЦИЯ</span></p>
 	</div>
 </div>
